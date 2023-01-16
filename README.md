@@ -20,12 +20,12 @@
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"> 
 
 # 
-### ✏️ Study ✏️
+### ✏️ Study & Contact 💞
 <a href="https://velog.io/@psyoungg22"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
-
-#   
-### 💞 Contact 💞
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:psyoungg22@gmail.com)](mailto:psyoungg22@gmail.com)  
+#   
+### 
+
 
 
 </div>
