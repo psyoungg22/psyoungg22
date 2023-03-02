@@ -1,9 +1,9 @@
 <div align="center">
 
-# 🫧 So Young's Github 🫧
+# 💞 So Young's Github 💞
   
   
-### 🪄 Main Field 🪄 
+### 👩‍💻 Main Field 👩‍💻
 
 #### 🍰 NLP/NLU/NLG 🍰
 ##### - Text Classification
